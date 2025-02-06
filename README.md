@@ -15,44 +15,44 @@ L'objectif est de **fournir des indicateurs de performance (KPI) pertinents**, a
 
 ## 🎯 Objectifs du Projet
 
-✅ **Créer un tableau de bord interactif et automatisé**
-✅ **Analyser les données existantes pour extraire des insights pertinents**
-✅ **Faciliter la prise de décision grâce à des visualisations claires et efficaces**
+✅ **Créer un tableau de bord interactif et automatisé**  
+✅ **Analyser les données existantes pour extraire des insights pertinents**  
+✅ **Faciliter la prise de décision grâce à des visualisations claires et efficaces**  
 ✅ **Proposer des KPI supplémentaires pour enrichir l’analyse**
 
 ---
 
 ## 📊 Indicateurs Clés de Performance (KPI)
 
-### 🔴 Indicateurs Obligatoires
-- **Chiffre d’affaires mensuel et régional** 📈
-- **Produits les plus et les moins vendus** 🏆
-- **Marge brute par produit et catégorie** 💰
-- **Performance des commerciaux et des bureaux** 🏢
-- **Taux de commandes livrées en retard** 🚚💨
+### 🔴 Indicateurs Obligatoires  
+- **Chiffre d’affaires mensuel et régional** 📈  
+- **Produits les plus et les moins vendus** 🏆  
+- **Marge brute par produit et catégorie** 💰  
+- **Performance des commerciaux et des bureaux** 🏢  
+- **Taux de commandes livrées en retard** 🚚💨  
 - **Stock des produits sous seuil critique** ⚠️
 
-### 🟢 Indicateurs Complémentaires
-- **Taux d’évolution mensuel des ventes par catégorie** 📊
-- **Clients générant le plus/moins de revenus** 👥
-- **Durée moyenne de traitement des commandes** ⏳
-- **Taux de paiement par délai** 💳
+### 🟢 Indicateurs Complémentaires  
+- **Taux d’évolution mensuel des ventes par catégorie** 📊  
+- **Clients générant le plus/moins de revenus** 👥  
+- **Durée moyenne de traitement des commandes** ⏳  
+- **Taux de paiement par délai** 💳  
 
-### ⚫ Indicateurs Optionnels
-- **Montant moyen des paiements et clients en dessous de la moyenne** 🏦
-- **Taux de fidélisation des clients** 🔄
-- **Taux d’écoulement des stocks** 📦
-
----
-
-## 🔧 Outils Utilisés
-- **Base de données** : MySQL / MariaDB (serveur cloud ou local)
-- **Langages & Frameworks** : SQL, Python (pandas, matplotlib, seaborn)
-- **Visualisation** : Power BI / Tableau / Dash
+### ⚫ Indicateurs Optionnels  
+- **Montant moyen des paiements et clients en dessous de la moyenne** 🏦  
+- **Taux de fidélisation des clients** 🔄  
+- **Taux d’écoulement des stocks** 📦  
 
 ---
 
-## ⚙️ Installation et Connexion à la Base de Données
+## 🔧 Outils Utilisés  
+- **Base de données** : MySQL / MariaDB (serveur cloud ou local)  
+- **Langages & Frameworks** : SQL, Python (pandas, matplotlib, seaborn)  
+- **Visualisation** : Power BI / Tableau / Dash  
+
+---
+
+## ⚙️ Installation et Connexion à la Base de Données  
 
 ### Option 1 : Serveur Cloud
 📌 Connexion à la base MariaDB :
