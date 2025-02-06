@@ -75,7 +75,7 @@ Password: WILD4Rdata!
 
 📢 *L’objectif est d’offrir une solution intuitive, claire et actionnable pour le client !*
 
-[📄 Voir le PDF de présentation]([Blue Dark Professional Geometric Business Project Presentation .pdf](https://www.canva.com/design/DAGUNqgbKgo/2xTC6exHMyvIXQT3rNh6ug/view?utm_content=DAGUNqgbKgo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4b297a13d0))
+[📄 Voir le PDF de présentation](https://www.canva.com/design/DAGUNqgbKgo/2xTC6exHMyvIXQT3rNh6ug/view?utm_content=DAGUNqgbKgo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4b297a13d0))
 
 ---
 
