@@ -79,6 +79,6 @@ Password: WILD4Rdata!
 
 ---
 
-👨‍💻 **Développé par :** Halim Moulay 
+👨‍💻 **Développé par :** Halim Moulay  
 📅 **Date :** Nov, 2025  
 📂 **Statut du projet :** Fini ✅
