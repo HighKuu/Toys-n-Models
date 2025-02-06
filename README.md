@@ -75,8 +75,10 @@ Password: WILD4Rdata!
 
 📢 *L’objectif est d’offrir une solution intuitive, claire et actionnable pour le client !*
 
+[📄 Voir le PDF de présentation](Blue Dark Professional Geometric Business Project Presentation .pdf)
+
 ---
 
-👨‍💻 **Développé par :** [Ton Nom]  
-📅 **Date :** [Mois, Année]  
-📂 **Statut du projet :** En cours ✅
+👨‍💻 **Développé par :** Halim Moulay 
+📅 **Date :** Nov, 2025  
+📂 **Statut du projet :** Fini ✅
