@@ -44,11 +44,11 @@ L'objectif est de **fournir des indicateurs de performance (KPI) pertinents**, a
 - **Taux d’écoulement des stocks** 📦  
 
 ## Dasboards KPI
-![vente](CA_par_pays.png)
-![vente](meilleur_vendeur.png)
-![vente](KPI_vente.png)
-![vente](top5.png)
-![vente](stock_a_surveiller.png)
+![CA_par_pays](assets/CA_par_pays.png)
+![meilleur_vendeur](assets/meilleur_vendeur.png)
+![KPI_vente](assets/KPI_vente.png)
+![top5](assets/top5.png)
+![stock_a_surveiller](assets/stock_a_surveiller.png)
 ---
 
 ## 🔧 Outils Utilisés  
