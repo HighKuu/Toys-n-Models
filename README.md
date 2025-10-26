@@ -43,6 +43,12 @@ L'objectif est de **fournir des indicateurs de performance (KPI) pertinents**, a
 - **Taux de fidélisation des clients** 🔄  
 - **Taux d’écoulement des stocks** 📦  
 
+## Dasboards KPI
+![vente](CA_par_pays.png)
+![vente](meilleur_vendeur.png)
+![vente](KPI_vente.png)
+![vente](top5.png)
+![vente](stock_a_surveiller.png)
 ---
 
 ## 🔧 Outils Utilisés  
